@@ -33,10 +33,7 @@ class MyHomePage extends StatefulWidget {
   const MyHomePage({Key? key, required this.title}) : super(key: key);
   int banana = 0;
   int maria = 1;
-  int riccardo = 2;
-  int valentino = 3;
-  int zardino=4;
-  int zard=5;
+
   // This widget is the home page of your application. It is stateful, meaning
   // that it has a State object (defined below) that contains fields that affect
   // how it looks.
