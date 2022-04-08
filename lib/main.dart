@@ -36,6 +36,7 @@ class MyHomePage extends StatefulWidget {
   int convento = 2;
   int wtf = 7;
   int zardino = 3;
+  int ciao = 4;
   // This widget is the home page of your application. It is stateful, meaning
   // that it has a State object (defined below) that contains fields that affect
   // how it looks.
